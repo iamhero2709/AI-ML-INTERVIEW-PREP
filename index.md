@@ -6,8 +6,9 @@ title: AI & ML Interview Prep Guide
 # AI & Machine Learning Engineering Interview Guide
 
 **Total Questions**: 130+  
-**Focus Areas**: Python, Data Handling, Machine Learning, Deep Learning, MLOps, Math, System Design.  
-**Visualization App**: [LIVE DEMO](http://localhost:5173/) (Run locally for now)
+**Focus Areas**: Python, Data Handling, Machine Learning, Deep Learning, MLOps, Math, System Design.
+
+> **Note**: This guide references an interactive visualization app that runs locally. The visualization links point to `localhost:5173` and are intended for local development. Clone the repository to run the app locally if available.
 
 ---
 
@@ -21,10 +22,10 @@ title: AI & ML Interview Prep Guide
 
 ### [SECTION 2: MACHINE LEARNING FUNDAMENTALS](#section-2-machine-learning-fundamentals)
 *   [Q21. Bias-Variance Tradeoff](#q21-what-is-bias-variance-tradeoff)
-*   [Q34. Confusion Matrix](#q34-what-is-a-confusion-matrix) -> 📊 [**Visualise Interactive Matrix**](http://localhost:5173/ml-fundamentals#confusion-matrix)
+*   [Q34. Confusion Matrix](#q34-what-is-a-confusion-matrix) -> 📊 *(Interactive visualizations available in local app)*
 
 ### [SECTION 3: DEEP LEARNING](#section-3-deep-learning--neural-networks)
-*   [Q53. Activation Functions](#q53-why-use-activation-functions-compare-relu-sigmoid-tanh) -> 📊 [**Visualise Activations**](http://localhost:5173/deep-learning#activation-functions)
+*   [Q53. Activation Functions](#q53-why-use-activation-functions-compare-relu-sigmoid-tanh) -> 📊 *(Interactive visualizations available in local app)*
 
 ---
 
@@ -507,7 +508,7 @@ It describes the problem of minimizing two sources of error that prevent supervi
 *   **Variance**: Error from sensitivity to small fluctuations in the training set (Overfitting). The model models the noise.
 *   **Tradeoff**: You cannot reduce both simultaneously; increasing complexity lowers bias but raises variance.
 
-> 🚀 **[Try Interactive Bias-Variance Simulator](http://localhost:5173/ml-fundamentals#bias-variance)**
+> ℹ️ *Interactive visualization available in local app*
 
 **→ Diagram:**
 ```text
@@ -633,7 +634,7 @@ A table used to evaluate classification models.
 Rows = Actual classes, Cols = Predicted classes.
 Contains: TP (True Pos), TN (True Neg), FP (Type I Error), FN (Type II Error).
 
-> 🚀 **[Try Interactive Confusion Matrix](http://localhost:5173/ml-fundamentals#confusion-matrix)**
+> ℹ️ *Interactive visualization available in local app*
 
 **→ Diagram:**
 
@@ -793,7 +794,7 @@ Activation functions introduce **non-linearity**. Without them, a deep NN is jus
 *   **Tanh**: -1 to 1. Zero-centered, but still vanishes.
 *   **ReLU**: 0 to z. Fast, solves vanishing gradient (for +ve values), but can result in "dead neurons".
 
-> 🚀 **[Try Interactive Activation Functions](http://localhost:5173/deep-learning#activation-functions)**
+> ℹ️ *Interactive visualization available in local app*
 
 ### Q54. What is vanishing/exploding gradient problem?
 
