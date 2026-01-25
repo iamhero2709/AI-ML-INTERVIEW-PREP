@@ -1,7 +1,7 @@
 # AI & Machine Learning Engineering Interview Guide
 
-**Total Questions**: 130+  
-**Focus Areas**: Python, Data Handling, Machine Learning, Deep Learning, MLOps, Math, System Design.
+**Total Questions**: 170+  
+**Focus Areas**: Python, Data Handling, Machine Learning, Deep Learning, MLOps, Math, System Design, Scenario-Based Questions.
 
 📚 **[View the Full Guide](./AI_ML_Interview_Guide.md)** | 🌐 **[GitHub Pages](https://iamhero2709.github.io/AI-ML-INTERVIEW-PREP/)**
 
@@ -9,7 +9,7 @@
 
 ## About This Guide
 
-This comprehensive guide contains 130+ interview questions covering:
+This comprehensive guide contains 170+ interview questions covering:
 
 - 🐍 **Python & Data Handling** (Q1-Q20)
 - 🤖 **Machine Learning Fundamentals** (Q21-Q50)
@@ -17,6 +17,11 @@ This comprehensive guide contains 130+ interview questions covering:
 - 🔧 **Data Engineering & MLOps** (Q81-Q100)
 - 📊 **Math & Statistics** (Q101-Q115)
 - 🏗️ **System Design & Behavioral** (Q116-Q130)
+- 🎯 **Scenario-Based Questions** (Q131-Q170)
+  - AI Engineer Scenarios
+  - ML Engineer Scenarios
+  - Data Scientist Scenarios
+  - AI Researcher Scenarios
 
 Each question includes:
 - Clear explanations
